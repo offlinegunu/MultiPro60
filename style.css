@@ -171,10 +171,10 @@ footer {
 }
 
 .cont1{
-    border: solid white 5px;
-    width: 200px;
-    height: 200px;
-    position: relative;
+  border: solid white 5px;
+  width: 200px;
+  height: 200px;
+  position: relative;
 }
 
 #g2{
@@ -227,4 +227,90 @@ footer {
   position: relative;
   z-index: 1;
 
+}
+
+#r1{
+  width: 1900px;
+  position: absolute;
+
+}
+#d1{
+  top: 400px;
+  width: 1900px;
+  height: 600px;
+  position: absolute;
+  background-color: #fff89c;
+}
+
+#d2{
+  height: 600px;
+  width: 330px;
+  background-color: #85b975;
+  position: absolute;
+  top: 150px;
+  left: 600px;
+}
+#d3{
+  height: 300px;
+  width: 330px;
+  position: absolute;
+  top: 150px;
+  left: 930px;
+}
+#d4{
+  background-color: #fff568;
+  height: 300px;
+  width: 330px;
+  position: absolute;
+  top: 450px;
+  left: 930px;
+}
+#d5{
+  background-color: #c8eabe;
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  top: 370px;
+  left: 1180px;
+  position: absolute;
+}
+
+#a1{
+  width: 1900px;
+  position: absolute;
+}
+#da1{
+  top: 400px;
+  width: 1900px;
+  height: 600px;
+  position: absolute;
+  background-color: #fff89c;
+}
+#da2{
+  width: 800px;
+  height: 700px;
+  position: absolute;
+  top: 150px;
+  left: 550px;
+  background-color: #85b975;
+}
+#c1{
+ width: 1900px;
+ position: absolute;
+ top: -500px;
+}
+#c2{
+  top: 400px;
+  width: 1900px;
+  height: 600px;
+  position: absolute;
+  background-color: #fff89c;
+}
+#c3{
+  width: 800px;
+  height: 700px;
+  position: absolute;
+  top: 150px;
+  left: 550px;
+  background-color: #85b975;
 }
